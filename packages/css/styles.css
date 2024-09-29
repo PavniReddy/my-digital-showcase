@@ -181,7 +181,7 @@ img {
   bottom: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: var(--body-color);
+  background-color: antiquewhite;
 }
 
 /*==================== NAV ====================*/
@@ -1083,7 +1083,9 @@ img {
       top: 0;
       bottom: initial;
     }
-
+    .main {
+      background-color: beige;
+    }
     .header,
     .main,
     .footer__container {
